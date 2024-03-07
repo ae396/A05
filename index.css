@@ -1,0 +1,31 @@
+.image-of-logo {
+    top: 0;
+    left: 0;
+    height: 80px;
+    position: fixed;
+}
+.logo-text{
+    width: 100%;
+    left: 0;
+    top: 100px;
+    text-align: left;
+    position: absolute;
+    font-size: 18px;
+    height: 80px;
+}
+main {
+    padding-top: 150px;
+}
+blockquote{
+    text-align: center;
+}
+.speakers-list{
+    text-align: left;
+    margin-bottom: 20px;
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 20px;
+}
